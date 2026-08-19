@@ -233,7 +233,7 @@ Beginners going through this project will learn:
 **Library:** Scapy
 **Sniffing Type:** Passive (read-only, no packet injection or traffic alteration)
 **Packet Capture Limit:** 40 packets
-**Environment:** Local machine / authorized network only
+**Environment:** Local machine / authorized network only 
 
 ---
 
