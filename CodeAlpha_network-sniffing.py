@@ -1,7 +1,7 @@
 # Packet Sniffer Program(Passsive Sniffing)
 # Using Scapy library to capture live network packets
  
-from scapy.all import sniff, IP, TCP, UDP, ICMP
+from scapy.all import sniff, IP, TCP, UDP, ICMP 
 from datetime import datetime
  
 packet_count = 0
